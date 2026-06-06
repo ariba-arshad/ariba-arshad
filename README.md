@@ -1,4 +1,4 @@
-## Hi there 👋
+[![dbt Certified Analytics Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/184533125)](https://www.credential.net/7a33b77e-eb52-4953-b9cf-c240a4627faa)
 
 <!--
 **ariba-arshad/ariba-arshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
